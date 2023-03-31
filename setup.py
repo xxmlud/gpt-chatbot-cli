@@ -14,6 +14,7 @@ setuptools.setup(
         'openai==0.26.1',
         'prompt_toolkit==3.0.36',
         'termcolor==2.2.0',
+        'click==8.1.3',
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
